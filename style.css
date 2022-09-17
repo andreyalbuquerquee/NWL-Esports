@@ -20,7 +20,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #F65F0A 0%, #C19949 50.52%, #F3DDB1 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -41,7 +41,7 @@ header img {
 }
 
 body {
-    background-color: #121214;
+    background-color: #111719;
     background-image: url(imagens/Fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
@@ -65,7 +65,7 @@ main {
 
 section {
     color: white;
-    background: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background: linear-gradient(90deg, #F65F0A 0%, #C19949 50.52%, #F3DDB1 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
@@ -84,7 +84,7 @@ section p {
 }
 
 section div {
-    background-color: #2A2634;
+    background-color: #2a2634f1;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
@@ -121,6 +121,7 @@ section ul li:hover {
 a {
     text-decoration: none;
 }
+
 
 /* animation */
 
