@@ -129,6 +129,92 @@ a {
     text-decoration: none;
 }
 
+#valorant {
+    color: white;
+    display: none;
+    width: 200px;
+    height: 250px;
+    top: 120px;
+    right: -175px;
+    background-color: rgb(110, 46, 46);
+    border-left: 2px solid white;
+}
+
+#valorant p {
+    font-size: 14px;
+    color: white;
+
+}
+
+a:hover > #valorant {
+    position: absolute;
+    display: flex;
+}
+
+#csgo {
+    color: white;
+    display: none;
+    width: 200px;
+    height: 300px;
+    top: 120px;
+    right: -175px;
+    background-color: rgb(36, 46, 73);
+    border-bottom: 2px solid white;
+}
+
+#csgo p {
+    font-size: 14px;
+    color: white;
+}
+
+a:hover > #csgo {
+    position: absolute;
+    display: flex;
+}
+
+#apex {
+    color: white;
+    display: none;
+    width: 200px;
+    height: 250px;
+    top: 120px;
+    right: -175px;
+    background-color: #308370;
+    border-top: 2px solid white;
+}
+
+#apex p {
+    font-size: 14px;
+    color: white;
+}
+
+a:hover > #apex {
+    position: absolute;
+    display: flex;
+}
+
+#lol {
+    color: white;
+    display: none;
+    width: 200px;
+    height: 250px;
+    top: 120px;
+    right: -175px;
+    background-color: #522577;
+    border-right: 2px solid white;
+}
+
+#lol p {
+    font-size: 14px;
+    color: white;
+}
+
+a:hover > #lol {
+    position: absolute;
+    display: flex;
+}
+
+
 
 /* animation */
 
